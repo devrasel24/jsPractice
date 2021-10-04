@@ -26,7 +26,7 @@
 // console.log(total)
 
 let number1 = 14;
-let number2 = 6;
+let number2 = 7;
 number2++;
 let total = (number2 / number1);
 
